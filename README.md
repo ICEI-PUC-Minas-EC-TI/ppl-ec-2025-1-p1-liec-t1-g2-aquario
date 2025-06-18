@@ -24,7 +24,7 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O aquário montado será controlado por um aplicativo(conectado ao aquário por Bluetooth), capaz de controlar a temperatura da água(diminuir ou aumentar), medir sua pureza(ph), e ligar ou desligar o filtro.
 
 # Código (do arduino ou esp32)
 
