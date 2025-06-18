@@ -1,25 +1,26 @@
-# TÍTULO DO PROJETO
+# Aquário
 
-`CAMPUS/UNIDADE`
+`Lourdes`
 
-`CURSO`
+`Engenharia de computação`
 
-`SEMESTRE`
+`1º semestre`
 
-`DISCIPLINA`
+`Laboratório de introdução a engenharia de computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Luíza Pittella Maia
+* Daniel Kirsch Pollack
+* Ana Luiza González Souza
+* Rafael Gomide de Senna
+* Diogo Augusto Goulart de Sá Viana Rebelo
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Lara
+* Cristiano Neves
 
 ## Resumo
 
