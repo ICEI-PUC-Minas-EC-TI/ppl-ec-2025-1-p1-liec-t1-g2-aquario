@@ -7,12 +7,8 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
-
+- Scrum Master: Luíza Pittella Maia.
+- Equipe de Desenvolvimento: Daniel Kirsch Pollack, Ana Luiza González Souza, Rafael Gomide de Senna, Diogo Augusto Goulart de Sá Viana Rebelo.
 
 ### Processo
 
