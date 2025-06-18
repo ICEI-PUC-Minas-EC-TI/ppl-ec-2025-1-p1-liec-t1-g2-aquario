@@ -21,8 +21,6 @@ Desenvolvemos o aplicativo com apenas uma tela, desejando manter ele simples, pa
 
 ### Código
 
-Descreva o desenvolvimento do código do aplicativo.
-
 A pricípio começamos o planejamento do aplicativo pensando em quais funcionalidades ele teria.
 O Appinventor foi a plataforma de desenvolvimento usada, e para criar o código do aplicativo utilizamos os blocos visuais.
 O código foi criado para conseguir tanto controlar o aquário(ligar ou desligar o filtro e alterar a temperatura), tanto quanto para fazer leituras(pureza da água).
