@@ -4,7 +4,7 @@ O projeto do aquário visa facilitar a manutenção e controle da água. O aplic
 
 ## Problema
 
-o problema que o projeto busca resolver é a dificuldade de criadores de peixes de controlar e executar a manutenção do ambiente aquático.
+O problema que o projeto busca resolver é a dificuldade de criadores de peixes de controlar e executar a manutenção do ambiente aquático.
 
 ## Objetivos
 
