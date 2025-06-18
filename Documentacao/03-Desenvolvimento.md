@@ -11,7 +11,7 @@ Proteger circuitos | Caixa plástica + fita e organizadores
 
 # Desenvolvimento
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+A primeira parte feita do projeto foi pensar nos objetivos que ele ia atingir e como isso iria se transformar em algo inovador, prático e útil. Desta forma, o grupo pensou nos componentes que seriam necessários, plataformas que seriam utilizadas e tarefas a serem divididas. Utilizamos de ferramentas online para simulação do hardware e para montagem do aplicativo. Após a montagem do hardware, juntamos ele com o aplicativo que já estava pronto e chegamos a parte final do projeto, apenas testando e laterando o necessário.
 
 ## Desenvolvimento do Aplicativo
 
