@@ -1,8 +1,13 @@
 
 # Materiais
 
-Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+Materiais usados no projeto:
+Função | Componente Principal
+Aquário | 30cm x 14cm x 21cm
+Medir temperatura | DS18B20
+Esfriar água | Módulo Peltier + Fonte 12V
+Limpar água | Bomba submersa + Relé + Mangueira
+Proteger circuitos | Caixa plástica + fita e organizadores
 
 # Desenvolvimento
 
