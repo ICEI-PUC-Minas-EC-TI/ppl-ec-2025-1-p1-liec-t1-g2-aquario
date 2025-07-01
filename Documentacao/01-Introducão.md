@@ -8,7 +8,7 @@ O problema que o projeto busca resolver é a dificuldade de criadores de peixes 
 
 ## Objetivos
 
-Os objetivos principais do projeto é permitir o controle remoto do aquário ao criador pelo aplicativo, facilitar a manutenção, informar parâmetros mais precisos e criar um abiente mais estável ao seres vivos presenters no aquário.
+Os objetivos principais do projeto são permitir o controle remoto do aquário ao criador pelo aplicativo, facilitar a manutenção, informar parâmetros mais precisos e criar um abiente mais estável ao seres vivos presenters no aquário.
  
 ## Público-Alvo
 
