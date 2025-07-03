@@ -6,8 +6,7 @@ Função | Componente Principal
 Aquário | 30cm x 14cm x 21cm
 Medir temperatura | DS18B20
 Esfriar água | Módulo Peltier + Fonte 12V
-Limpar água | Bomba submersa + Relé + Mangueira
-Proteger circuitos | Caixa plástica + fita e organizadores
+Bomba de água diafragma RS385
 
 # Desenvolvimento
 
@@ -30,11 +29,11 @@ Durante o desenvolvimento do projeto alteramos ele algumas vezes para facilitar 
 
 ### Montagem
 
-Descreva como foi o processo da montagem do projeto.
+A primeira parte da montagem foi o planejamento das peças e da montagem. Depois montamos separadamente a bomba, termostato e o DS18B20, testando cada um separadamente para garantir que não haveria problemas. Após todos os testes, juntamos todas as partes do áquario e foi feita a montagem final do projeto.
 
 ### Desenvolvimento do Código
 
-Descreva como foi o desenvolvimento do código do arduino/ESP.
+O desenvolvimento do código teve referências em videos do Youtube e ajuda de inteligencias artificiais, além do conhecimento que o grupo possuia das aulas de Laboratório de introdução a Engenharia de Computação.
 
 ## Comunicação entre App e Hardware
 
